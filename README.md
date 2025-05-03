@@ -3,7 +3,8 @@
 
 
 Authors: Shruthi Kodati, Anand Meena, Parikha Goyanka
-Mentors: Prof.  Abolfazl Asudeh(University of Illinois Chicago)
+
+Mentor: Prof.  Abolfazl Asudeh(University of Illinois Chicago)
 
 Thank you for visiting!
 
