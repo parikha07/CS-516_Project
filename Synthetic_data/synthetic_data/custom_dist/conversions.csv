@@ -1,0 +1,3 @@
+conversion_id,impression_id,user_id,ad_id,conversion_type,conversion_value,timestamp,device,platform
+0,158,31,0,Application Completed,0,2025-04-05 22:44:30,mobile,website
+1,229,45,3,Application Completed,0,2025-05-02 05:07:35,desktop,search_engine

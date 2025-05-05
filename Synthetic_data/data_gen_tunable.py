@@ -1587,8 +1587,8 @@ def main():
     # Create a basic generator with default parameters
     print("\n1. Generating standard dataset with medium bias level...")
     generator = SyntheticAdDataGenerator(
-        num_users=100,
-        num_ads=5,
+        num_users=1000,
+        num_ads=25,
         avg_impressions_per_user=20,
         bias_level=0.7,
         include_enhanced_features=True,
@@ -1611,8 +1611,8 @@ def main():
     # Example of generating datasets with different bias levels for comparison
     print("\n\n2. Generating dataset with high bias for protected attributes...")
     high_bias_gen = SyntheticAdDataGenerator(
-        num_users=100,
-        num_ads=5,
+        num_users=1000,
+        num_ads=25,
         bias_level=0.9,
         include_enhanced_features=True,
         output_directory="synthetic_data"
@@ -1628,8 +1628,8 @@ def main():
     
     print("\n\n3. Generating dataset with low bias for protected attributes...")
     low_bias_gen = SyntheticAdDataGenerator(
-        num_users=100,
-        num_ads=5,
+        num_users=1000,
+        num_ads=25,
         bias_level=0.2,
         include_enhanced_features=True,
         output_directory="synthetic_data"

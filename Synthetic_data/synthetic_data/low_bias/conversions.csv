@@ -1,0 +1,103 @@
+conversion_id,impression_id,user_id,ad_id,conversion_type,conversion_value,timestamp,device,platform
+0,57,3,22,Add to Cart,42.76606034889047,2025-05-02 23:47:36,desktop,social_media
+1,685,33,7,Application Completed,0.0,2025-04-11 01:29:36,mobile,search_engine
+2,722,35,24,Add to Cart,14.529502346146103,2025-05-02 16:47:34,desktop,website
+3,783,38,18,Sign Up,0.0,2025-05-03 03:09:58,desktop,social_media
+4,868,42,14,Subscription,38.85674009015345,2025-04-19 05:07:50,mobile,social_media
+5,924,45,11,Purchase,371.565956395458,2025-04-21 15:50:50,mobile,social_media
+6,1137,56,2,Application Completed,0.0,2025-04-14 02:40:24,mobile,social_media
+7,1279,63,24,Add to Cart,34.091096307789236,2025-04-20 23:59:07,desktop,search_engine
+8,1365,67,8,Sign Up,0.0,2025-04-27 02:31:45,mobile,website
+9,1462,72,1,Sign Up,0.0,2025-04-29 12:05:21,mobile,social_media
+10,1589,78,13,Purchase,53.04829433999082,2025-04-05 22:34:58,desktop,search_engine
+11,1624,81,13,Purchase,407.112398947305,2025-04-19 08:46:41,mobile,social_media
+12,2426,123,16,Purchase,82.47025042009305,2025-04-05 07:17:01,mobile,search_engine
+13,2457,124,24,Add to Cart,13.266502808460118,2025-05-04 08:14:33,mobile,app
+14,2994,150,8,Sign Up,0.0,2025-04-07 06:53:27,mobile,website
+15,3201,161,2,Application Started,0.0,2025-04-26 12:05:18,mobile,social_media
+16,3807,191,14,Sign Up,0.0,2025-04-12 16:06:16,mobile,social_media
+17,4219,213,11,Add to Cart,39.15153909870017,2025-04-21 13:36:32,mobile,social_media
+18,4628,233,2,Application Completed,0.0,2025-04-07 00:39:22,mobile,app
+19,4656,235,5,Add to Cart,30.357516754071526,2025-04-08 13:40:41,mobile,search_engine
+20,4697,237,11,Add to Cart,26.400281476900396,2025-04-18 18:44:57,desktop,search_engine
+21,4757,239,14,Sign Up,0.0,2025-04-12 00:56:21,mobile,app
+22,4930,249,0,Application Started,0.0,2025-04-30 10:35:17,desktop,social_media
+23,5593,283,21,Application Completed,0.0,2025-04-21 04:43:31,mobile,app
+24,5733,290,3,Sign Up,0.0,2025-04-14 05:32:27,desktop,search_engine
+25,5802,293,22,Add to Cart,11.432481149228884,2025-04-13 13:29:28,mobile,app
+26,6047,306,5,Purchase,461.7743918543717,2025-04-07 16:31:59,mobile,app
+27,6225,315,19,Subscription,6.6086562729425875,2025-04-20 21:55:54,mobile,app
+28,6321,320,21,Application Completed,0.0,2025-04-19 07:06:15,mobile,app
+29,6448,326,8,Sign Up,0.0,2025-04-10 23:05:21,mobile,website
+30,6914,348,8,Free Trial,0.0,2025-04-05 12:49:12,mobile,social_media
+31,7266,367,21,Application Started,0.0,2025-04-10 04:17:24,mobile,website
+32,7293,368,11,Upsell,189.76467709322418,2025-05-04 21:17:40,mobile,website
+33,7343,370,3,Subscription,13.163078581780868,2025-04-25 05:00:05,mobile,app
+34,7811,395,4,Application Completed,0.0,2025-05-03 04:34:44,mobile,website
+35,8110,409,10,Purchase,176.10867296265963,2025-04-15 03:29:26,desktop,app
+36,8127,410,5,Purchase,287.1010609790886,2025-04-20 21:51:18,desktop,website
+37,8391,423,3,Sign Up,0.0,2025-04-10 11:52:22,mobile,website
+38,8471,427,16,Upsell,48.98823063201626,2025-04-12 19:40:46,mobile,website
+39,8711,439,15,Application Started,0.0,2025-04-08 20:27:19,mobile,social_media
+40,8837,445,2,Application Started,0.0,2025-04-13 06:46:59,desktop,social_media
+41,8984,453,4,Application Started,0.0,2025-05-03 17:29:07,desktop,app
+42,9102,459,17,Application Completed,0.0,2025-04-11 17:11:07,mobile,app
+43,9210,464,13,Add to Cart,38.04706554791155,2025-04-18 14:33:42,mobile,social_media
+44,9335,471,3,Sign Up,0.0,2025-05-02 17:18:00,desktop,app
+45,9421,475,8,Sign Up,0.0,2025-04-28 03:37:24,desktop,website
+46,9500,479,2,Application Started,0.0,2025-04-29 20:35:52,mobile,app
+47,9612,484,24,Purchase,420.98865436300235,2025-04-22 05:19:01,mobile,website
+48,9819,495,12,Sign Up,0.0,2025-04-10 08:27:58,mobile,app
+49,9877,498,1,Sign Up,0.0,2025-04-17 06:03:12,mobile,app
+50,9954,501,7,Application Completed,0.0,2025-04-21 23:00:25,mobile,website
+51,10235,516,7,Application Completed,0.0,2025-04-26 18:19:23,mobile,website
+52,10361,522,22,Purchase,82.47745380597898,2025-05-04 20:56:52,mobile,app
+53,10536,531,4,Application Completed,0.0,2025-04-20 08:24:46,mobile,search_engine
+54,10537,531,23,Purchase,410.91176608804267,2025-04-20 06:19:45,mobile,website
+55,10805,544,2,Application Started,0.0,2025-04-15 17:40:53,desktop,social_media
+56,10960,552,23,Add to Cart,10.052639141655364,2025-04-24 18:09:25,mobile,social_media
+57,11129,562,0,Interview Scheduled,0.0,2025-04-09 14:31:10,mobile,website
+58,11445,579,17,Application Started,0.0,2025-04-26 03:14:37,mobile,social_media
+59,11549,584,0,Application Started,0.0,2025-04-11 22:11:37,mobile,social_media
+60,11576,585,17,Interview Scheduled,0.0,2025-04-17 08:27:25,mobile,app
+61,11594,586,19,Sign Up,0.0,2025-04-11 17:43:09,mobile,search_engine
+62,11920,604,3,Sign Up,0.0,2025-04-13 12:51:08,mobile,app
+63,12257,621,7,Application Started,0.0,2025-04-24 20:31:23,desktop,app
+64,12740,648,16,Add to Cart,21.659831164683084,2025-05-02 02:05:45,mobile,website
+65,12766,649,9,Subscription,36.86899570982398,2025-04-20 10:00:50,mobile,app
+66,13424,683,6,Free Trial,0.0,2025-04-16 08:37:42,mobile,social_media
+67,13536,688,4,Application Completed,0.0,2025-04-21 13:51:37,mobile,search_engine
+68,13990,711,13,Purchase,433.512515600995,2025-04-20 22:15:18,desktop,website
+69,14488,736,17,Application Started,0.0,2025-04-20 15:16:24,mobile,app
+70,14763,750,15,Application Started,0.0,2025-04-22 01:55:49,mobile,social_media
+71,14891,758,13,Add to Cart,28.633963414699206,2025-04-11 10:17:25,mobile,social_media
+72,15007,764,23,Purchase,209.2103159365858,2025-04-18 16:08:22,mobile,social_media
+73,15100,769,6,Subscription,13.84725613855102,2025-04-08 21:19:16,mobile,social_media
+74,15697,799,21,Application Completed,0.0,2025-04-18 18:51:51,mobile,app
+75,15743,801,7,Application Started,0.0,2025-04-08 23:51:41,mobile,social_media
+76,15861,807,21,Application Started,0.0,2025-04-25 09:24:11,mobile,app
+77,16115,819,1,Sign Up,0.0,2025-04-08 06:22:07,desktop,website
+78,16175,822,1,Subscription,24.047336905772262,2025-04-10 09:59:10,desktop,website
+79,16344,830,3,Free Trial,0.0,2025-04-16 18:01:29,mobile,social_media
+80,16389,833,2,Application Started,0.0,2025-04-20 20:16:39,mobile,search_engine
+81,16394,833,18,Subscription,20.717173463055467,2025-04-22 16:48:48,mobile,social_media
+82,16691,848,23,Add to Cart,36.76452483289019,2025-04-11 15:14:57,mobile,search_engine
+83,16865,857,18,Free Trial,0.0,2025-04-16 11:02:24,mobile,search_engine
+84,17270,877,5,Add to Cart,15.24117466894066,2025-05-03 05:49:49,mobile,social_media
+85,17737,900,20,Free Trial,0.0,2025-04-12 01:23:52,mobile,social_media
+86,17794,903,5,Upsell,184.59397807389493,2025-04-06 08:40:54,desktop,search_engine
+87,17796,903,7,Application Started,0.0,2025-04-25 23:21:49,desktop,app
+88,18012,914,3,Sign Up,0.0,2025-04-08 00:57:27,mobile,website
+89,18324,929,21,Application Started,0.0,2025-04-26 17:23:51,desktop,search_engine
+90,18434,935,12,Free Trial,0.0,2025-04-14 02:04:16,mobile,website
+91,18656,947,14,Free Trial,0.0,2025-05-04 18:25:39,mobile,social_media
+92,18796,953,13,Add to Cart,32.74451533388441,2025-04-26 01:08:08,mobile,app
+93,18822,955,18,Sign Up,0.0,2025-04-25 18:05:12,mobile,website
+94,19296,979,21,Application Completed,0.0,2025-05-04 06:25:46,desktop,social_media
+95,19330,981,16,Add to Cart,42.94095089952684,2025-04-10 19:55:04,desktop,website
+96,19375,983,9,Sign Up,0.0,2025-04-24 14:18:37,mobile,website
+97,19401,985,3,Sign Up,0.0,2025-04-06 10:39:25,mobile,search_engine
+98,19501,991,8,Sign Up,0.0,2025-04-20 18:55:55,mobile,website
+99,19529,992,7,Application Started,0.0,2025-04-23 06:58:27,mobile,app
+100,19577,994,14,Sign Up,0.0,2025-04-30 10:48:56,mobile,website
+101,19653,998,4,Application Completed,0.0,2025-05-04 09:41:00,desktop,social_media

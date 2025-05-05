@@ -1,0 +1,5 @@
+num_users: 1000
+num_ads: 25
+bias_level: 0.7
+random_seed: 99992
+bias_params: {'age_bias_strength': 1.0, 'gender_bias_strength': 1.0, 'ethnicity_bias_strength': 1.0, 'socioeconomic_bias_strength': 1.0, 'disability_bias_strength': 1.0, 'behavioral_bias_strength': 1.0, 'geographic_bias_strength': 1.0, 'device_bias_strength': 1.0, 'temporal_bias_strength': 1.0, 'seasonal_bias_strength': 1.0, 'weekday_bias_strength': 1.0, 'time_of_day_bias_strength': 1.0, 'ad_fatigue_strength': 1.0}
